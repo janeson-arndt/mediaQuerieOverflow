@@ -1,0 +1,6 @@
+.item {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    overflow: auto; /* hidden esconde o conteúdo que nao coube dentro do elemento; auto joga o conteudo todo dentro de um elemento */
+}
